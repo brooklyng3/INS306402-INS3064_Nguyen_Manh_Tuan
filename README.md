@@ -1,1 +1,1 @@
-# INS306402-INS3064_Nguyen_Manh_Tuan
+This is the course repository of Nguyen Manh Tuan (brooklyng3). Class ID: INS306402
